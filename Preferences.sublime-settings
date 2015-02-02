@@ -1,0 +1,30 @@
+{
+	"bold_folder_labels": false,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/base16-eighties.dark (SL).tmTheme",
+	"draw_shadows": false,
+	"enable_tab_scrolling": false,
+	"enable_telemetry": true,
+	"font_face": "Source Code Pro Light",
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"SublimeLinter",
+		"Markdown",
+		"SublimeLinter-pylint"
+	],
+	"index_exclude_patterns":
+	[
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 0,
+	"margin": 0,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_simple_full_screen": false,
+	"word_wrap": false
+}

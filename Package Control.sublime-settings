@@ -1,0 +1,41 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"Base16 Color Schemes",
+		"Bubububububad and Boneyfied Color Schemes",
+		"Color Highlighter",
+		"ColorPicker",
+		"Djaneiro",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Handlebars",
+		"hosts",
+		"HTML-CSS-JS Prettify",
+		"INI",
+		"LiveStyle",
+		"LoremIpsum",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Package Control",
+		"PhpDoc",
+		"Pretty JSON",
+		"rsub",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}

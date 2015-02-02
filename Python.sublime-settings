@@ -1,0 +1,7 @@
+{
+    "translate_tabs_to_spaces": true,
+    "auto_complete_triggers": [{"selector": "source.python - string - comment - constant.numeric", "characters": "."}],
+    "ensure_newline_at_eof_on_save": true,
+    "trim_trailing_white_space_on_save": true,
+    "shift_tab_unindent": true,
+}
