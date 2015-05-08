@@ -1,18 +1,25 @@
 {
 	"bold_folder_labels": false,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/base16-eighties.dark (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"draw_shadows": false,
 	"enable_tab_scrolling": false,
 	"enable_telemetry": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"__pycache__"
+	],
 	"font_face": "Source Code Pro Light",
 	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"SublimeLinter",
 		"Markdown",
-		"SublimeLinter-pylint"
+		"Color Highlighter"
 	],
 	"index_exclude_patterns":
 	[

@@ -1,0 +1,34 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"Base16 Color Schemes",
+		"Color Highlighter",
+		"ColorPicker",
+		"Djaneiro",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Handlebars",
+		"hosts",
+		"HTML-CSS-JS Prettify",
+		"INI",
+		"LiveStyle",
+		"LoremIpsum",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"requirementstxt",
+		"rsub",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimePythonIDE",
+		"Syntax Highlighting for Sass",
+		"Theme - Spacegray"
+	]
+}

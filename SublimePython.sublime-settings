@@ -1,0 +1,29 @@
+{
+    // make python_open_documentation command output in a view or in the output
+    // panel if false
+    "open_pydoc_in_view": false,
+
+    // when a doc view is created it will be placed in the active view group
+    // if false and only one group exist then a new group will be created
+    "create_view_in_same_group": false,
+
+    // Linter settings
+    "python_linting": true,
+    "python_linter_mark_style": "none", // "none" or "outline"
+    "python_linter_gutter_marks": true,
+    "python_linter_gutter_marks_theme": "circle", // see folder gutter_mark_themes
+
+    // linting colors
+    "warning_color":"FFFFFF",
+    "error_color":"DA5030",
+
+    "pep8": true,
+    // disable certain pep8 errors
+    // overview of possible error codes at http://pep8.readthedocs.org/en/latest/intro.html#error-codes
+    "pep8_ignore": ["E113"],
+    "pep8_max_line_length": 80,
+    "pyflakes_ignore": [],
+
+    // If the organize imports refactoring should be called on every file save
+    "python_organize_imports_on_save": false
+}
